@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "illuminate/support": "^9.0",
+        "illuminate/support": "^8.0",
         "laravel/nova": "^3.31",
         "symfony/thanks": "^1.1"
     },
